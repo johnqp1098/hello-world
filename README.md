@@ -1,2 +1,3 @@
 # hello-world
-Hello! I am currently a kid's coach for basic strength/conditioning and varying sports looking to pursue computer science full-time.
+Hello! My name is John and I am currently attending OCC for computer science. I am a relatively new graduate with a degree in Kinesiology, but decided to make the change
+to computer science because the idea of solving problems and creating something out of thin air intrigued me.
